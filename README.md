@@ -5,7 +5,7 @@
 - Módulo II - HTML/CSS3/JS - Projeto do curso posicionamento elementos com Flexbox em CSS.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/79487813/171544931-a9b71254-cca0-4877-bc31-965ac516655b.gif" alt="Photo Card" width="95%"/>
+<img src="https://user-images.githubusercontent.com/79487813/171546453-1ff44f22-1a82-4977-aab0-c09c209da205.gif" alt="Photo Card" width="95%"/>
 </p>
 
 
