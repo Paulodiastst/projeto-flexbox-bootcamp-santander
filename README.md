@@ -1,10 +1,13 @@
 # <p align="center"> ♨️ Santander Bootcamp | Fullstack Developer  </p>
 
+#### 📝 Sobre projeto:
+
+- Módulo II - HTML/CSS3/JS - Projeto do curso posicionamento elementos com Flexbox em CSS.
+
 <p align="center">
-<img src="https://user-images.githubusercontent.com/79487813/171513191-1c51045d-eac7-4214-ba7d-6d78a73d6ae5.png" alt="Photo Card" width="95%"/>
+<img src="https://user-images.githubusercontent.com/79487813/171544931-a9b71254-cca0-4877-bc31-965ac516655b.gif" alt="Photo Card" width="95%"/>
 </p>
 
-<p align="center"> Em desenvolvimento ⚠️  </p>
 
 ------
 
